@@ -32,10 +32,8 @@
 
 ## 📸 اسکرین‌شات‌ها
 
-<img width="1080" height="2340" alt="5764945236772721786" src="https://github.com/user-attachments/assets/6942c2cd-e064-4cce-9ecb-f227e4e31070" />
-<img width="1080" height="2340" alt="5764945236772721785" src="https://github.com/user-attachments/assets/852c580f-d52f-4810-9018-6366b2a4dae2" />
-<img width="1080" height="2340" alt="5764945236772721784" src="https://github.com/user-attachments/assets/c2506a0c-e33e-4904-8921-ec6d3e53d5c9" />
-<img width="1080" height="2340" alt="5764945236772721787" src="https://github.com/user-attachments/assets/9efedb88-d62b-421b-b7dd-18a909228f0d" />
+<img width="1896" height="1000" alt="screenshots" src="https://github.com/user-attachments/assets/15a21cd5-be8a-46b6-b415-c8a627978aab" />
+
 
 ## 📥 دانلود
 
@@ -64,7 +62,7 @@
 
 برای تهیه‌ی اشتراک به ربات تلگرام ما مراجعه کنید:
 
-👉 **[@VPN_R_Go_bot](https://t.me/VPN_R_Go_bot)**
+👉 خرید از ربات **[@VPN_R_Go_bot](https://t.me/VPN_R_Go_bot)**
 
 کانال اطلاع‌رسانی: **[@Rapido_Go_VPN](https://t.me/Rapido_Go_VPN)**
 
@@ -78,7 +76,7 @@
 
 ## ⚠️ سلب مسئولیت
 
-Rapido VPN یک پروژه‌ی مستقله و وابسته به هیچ شرکت یا سرویس دیگری نیست. مسئولیت نحوه‌ی استفاده از برنامه با خود کاربره.
+یک پروژه‌ی مستقله و وابسته به هیچ شرکت یا سرویس دیگری نیست. مسئولیت نحوه‌ی استفاده از برنامه با خود کاربره Rapido VPN هست.
 
 ## 💬 پشتیبانی
 
