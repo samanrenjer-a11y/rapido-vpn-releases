@@ -4,8 +4,8 @@
 
 **فیلترشکن سریع و ساده برای اندروید، مبتنی بر Xray-core**
 
-[![Version](https://img.shields.io/github/v/release/OWNER/REPO?style=flat-square&label=Version)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/OWNER/REPO/total?style=flat-square&logo=github&label=Downloads)](../../releases)
+[![Version](https://img.shields.io/github/v/release/samanrenjer-a11y/rapido-vpn-releases?style=flat-square&label=Version)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/samanrenjer-a11y/rapido-vpn-releases/total?style=flat-square&logo=github&label=Downloads)](../../releases)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](#-لایسنس-و-سورس-کد)
 
 </div>
@@ -18,9 +18,6 @@
 
 هسته‌ی اتصال **Xray-core** هست.
 
-<!-- اینجا اسکرین‌شات اصلی برنامه رو بذارید:
-<p align="center"><img src="docs/screenshots/main.webp" width="260"></p>
--->
 
 ## 🚀 امکانات اصلی
 
@@ -35,13 +32,6 @@
 
 ## 📸 اسکرین‌شات‌ها
 
-<!-- سه تا اسکرین‌شات از صفحه‌ی اصلی، سرورها و تنظیمات بذارید:
-<p align="center">
-  <img src="docs/screenshots/phone_01.webp" width="220">
-  <img src="docs/screenshots/phone_02.webp" width="220">
-  <img src="docs/screenshots/phone_03.webp" width="220">
-</p>
--->
 
 ## 📥 دانلود
 
